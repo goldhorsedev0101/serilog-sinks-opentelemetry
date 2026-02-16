@@ -14,6 +14,8 @@ properties by default.
 
 ## Getting started
 
+
+
 To use the OpenTelemetry sink, first install the
 [NuGet package](https://nuget.org/packages/serilog.sinks.opentelemetry):
 
